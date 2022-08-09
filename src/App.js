@@ -57,6 +57,7 @@ class App extends React.Component{
 
   uselessFunction(){
     console.log("This is a useless function");
+    
   }
 
   /*
